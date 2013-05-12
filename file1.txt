@@ -8,3 +8,5 @@ add by branch testBranch!
 
 add by testGit2 repo
 
+add again testGit2 repo
+
