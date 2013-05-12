@@ -6,3 +6,5 @@ Add in branch master
 
 add by branch testBranch!
 
+add by testGit2 repo
+
