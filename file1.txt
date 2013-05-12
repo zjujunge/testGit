@@ -11,3 +11,8 @@ add by testGit2 repo
 add again testGit2 repo
 
 add again testGit repo
+
+add by branch testBranch!
+
+add again by test branch!
+
